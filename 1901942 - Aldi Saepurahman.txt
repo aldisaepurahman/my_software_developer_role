@@ -1,0 +1,25 @@
+Saya Aldi Saepurahman mengerjakan evaluasi Tugas Praktikum 3 DPBO dalam mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak
+melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan:
+- Ada permasalahan ketika mengimport module Pillow, sehingga secara manual dipindahkan terlebih dahulu
+module nya kedalam folder Program Files
+- Tindak lanjut dari masalah poin sebelumnya, sehingga untuk memindahkan foto perlu memindahkan
+module nya terlebih dahulu
+- Membuat checkbox posisi dan radio button platform dihidden ketika belum memilih role, sehingga
+ide nya diubah dengan mendisable semua checkbox dan radio button tersebut, dan ketika dipilih,
+kembali diset enable
+
+Hal baru:
+- Bisa membuat radio button dan checkbox sesuai validasi ketika belum memilih role
+- Bisa mempelajari operasi file ketika memindahkan foto dari direktori lama ke direktori path
+
+Fitur yang sudah dikerjakan:
+- Form Input data
+- Form dialog input foto
+- Tombol submit data beserta validasi dan message box
+- Tombol lihat data submissions + top level untuk menampilkan data perorangan secara detail
+- Tombol hapus data submissions beserta foto submissions
+- Fitur About
+- Fitur Exit aplikasi + hapus data foto dan submissions
